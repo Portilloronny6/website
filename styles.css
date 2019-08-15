@@ -307,3 +307,20 @@ html {
     padding-right: 13%;
   }
 }
+
+@media (min-width: 992px) and (max-width: 1697px) {
+
+  #cabecera .navbar {
+    padding: 0 0;
+}
+
+.navbar-text, .nav-item {
+    font-size: 1.0rem;
+}
+
+
+.navbar-brand {
+  margin-right: 0;
+}
+
+}
