@@ -212,7 +212,7 @@ button.owl-next {
 #pie {
   padding: 5% 2% 0;
   color: #fff;
-  background-image: linear-gradient(rgba(31, 39, 73, 0.85), rgba(31, 39, 73, 0.7)), url(images/portfolio.png);
+  background-image: linear-gradient(rgba(31, 39, 73, 0.85), rgba(31, 39, 73, 0.7)), url(images/portfolio.jpg);
   background-size: cover;
 }
 
