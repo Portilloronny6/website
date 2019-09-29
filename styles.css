@@ -14,7 +14,7 @@ p {
 }
 
 header {
-  background: linear-gradient(rgba(31, 39, 73, 0.8), rgba(31, 39, 73, 0.8)), url(images/Environmental-Compliance.jpg);
+  background: linear-gradient(rgba(31, 39, 73, 0.8), rgba(31, 39, 73, 0.5)), url(images/Environmental-Compliance.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@ h2 {
 
 /* HABILIDADES */
 #habilidades {
-  background-color: #F12639;
+  background-color: #28a745;;
   color: #fff;
   padding: 7% 10% 0;
 }
